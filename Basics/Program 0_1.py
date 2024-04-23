@@ -1,0 +1,6 @@
+print ("Hello Wolrd")
+print ("first lesson of python bootcamp")
+int(11 +10 + 1000)
+print(true)
+print(false)
+print("python")
